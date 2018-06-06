@@ -4,10 +4,8 @@
 nombre=input("Ingresa tu nombre:")
 apellido=input("Ingresa tu apellido:")
 universidad=input("Ingresa tu universidad")
-edad=int(input("Ingresa tu edad:")
+edad=int(input("Ingresa tu edad:"))
 
-if nombre=="Maria Paula" or nombre=="maria paula":
-  elif apellido= "Rojas" or apellido=="rojas":
-    elif universidad="UTEC" or universidad=="utec":
-      elif edad=17:
-        print("Lamento informarte que padeces de ansiedad, depresión, bipolaridad, OCD, PTSD, y maorphobia")
+if nombre=="Maria Paula" or nombre=="maria paula" and apellido=="rojas" or apellido=="Rojas" and universidad=="Utec" or universidad=="utec" and edad==18: 
+  print("Lamento informarte que padeces de ansiedad, depresion, bipolaridad, OCD, PTSD y maorfobia"
+  
