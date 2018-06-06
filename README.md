@@ -7,5 +7,7 @@ universidad=input("Ingresa tu universidad")
 edad=int(input("Ingresa tu edad:"))
 
 if nombre=="Maria Paula" or nombre=="maria paula" and apellido=="rojas" or apellido=="Rojas" and universidad=="Utec" or universidad=="utec" and edad==18: 
-  print("Lamento informarte que padeces de ansiedad, depresion, bipolaridad, OCD, PTSD y maorfobia"
+  print("Lamento informarte que padeces de ansiedad, depresion, bipolaridad, OCD, PTSD y maorfobia")
+else:
+  print("No eres mapu, entonces...no estas loca. Sientete agradecid@")
   
